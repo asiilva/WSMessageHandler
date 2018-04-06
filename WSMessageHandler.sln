@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSMessageHandler", "WSMessageHandler\WSMessageHandler.csproj", "{15EEB26E-41DE-436A-8641-4BA294DDFFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSMessageHandlerCore", "WSMessageHandlerCore\WSMessageHandlerCore.csproj", "{F9183684-B7E0-411F-BC00-56E742F5C371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15EEB26E-41DE-436A-8641-4BA294DDFFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EEB26E-41DE-436A-8641-4BA294DDFFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EEB26E-41DE-436A-8641-4BA294DDFFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EEB26E-41DE-436A-8641-4BA294DDFFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9183684-B7E0-411F-BC00-56E742F5C371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9183684-B7E0-411F-BC00-56E742F5C371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9183684-B7E0-411F-BC00-56E742F5C371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9183684-B7E0-411F-BC00-56E742F5C371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC302EB1-7C7C-4927-A7F7-A109CA8B0654}
+	EndGlobalSection
+EndGlobal
